@@ -2,11 +2,11 @@
 {
   "peliculas": [
     {
-      "titulo": "Película 1",
-      "descripcion": "Una película de acción",
-      "genero": "Acción",
-      "anio": 2020,
-      "url": "https://example.com/pelicula1.mp4"
+      "titulo": "ALGUIEN COMO TU",
+      "descripcion": "Toda su vida se construyó sobre una mentira... pero fue una mentira la que la llevó hasta él.",
+      "genero": "romance",
+      "anio": 2024,
+      "url": "https://archive.org/download/d3vu37t4.4.747cc10n/BFLIXAlguien1como1T%C3%BA..ia.mp4"
     },
     {
       "titulo": "Película 2",
