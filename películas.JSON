@@ -1,0 +1,27 @@
+```
+{
+  "peliculas": [
+    {
+      "titulo": "Película 1",
+      "descripcion": "Una película de acción",
+      "genero": "Acción",
+      "anio": 2020,
+      "url": "https://example.com/pelicula1.mp4"
+    },
+    {
+      "titulo": "Película 2",
+      "descripcion": "Una película de aventuras",
+      "genero": "Aventuras",
+      "anio": 2019,
+      "url": "https://example.com/pelicula2.mp4"
+    },
+    {
+      "titulo": "Película 3",
+      "descripcion": "Una película de comedia",
+      "genero": "Comedia",
+      "anio": 2018,
+      "url": "https://example.com/pelicula3.mp4"
+    }
+  ]
+}
+```
