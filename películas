@@ -1,6 +1,9 @@
 #EXTM3U
 
   #EXTINF:-1,Peliculas
+https://raw.githubusercontent.com/tokio14-dot/from-3/refs/heads/main/pel%C3%ADculas.JSON
+
+#EXTINF:-1,Peliculas 2
 
 
 
